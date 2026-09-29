@@ -112,3 +112,8 @@ Los archivos originales de Excel y Word se mantienen guardados en el Drive perso
 El proyecto permitió aplicar herramientas de investigación, análisis y generación de contenido para transformar información relacionada con el Comercio Exterior en una presentación web.
 
 El trabajo integra información estadística, análisis y desarrollo de una página web, utilizando las herramientas indicadas en la consigna.
+Conectando con netlify 
+Conectando con netlify 
+[[sitio-netlify](https://proyecto-yerbamate.netlify.app/)]
+
+
